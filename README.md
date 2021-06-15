@@ -20,7 +20,7 @@ You will also see any lint errors in the console.
 
 I am Using  https://demo8966750.mockable.io/users
 
-###Hosted 
+### `Hosted`
 
 https://grootan-karventhan.netlify.app/
 
