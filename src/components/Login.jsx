@@ -35,7 +35,7 @@ export default function Login() {
 
     return (
         <div className="container-fluid">
-            <div className="row">
+            <div className="row mt-5">
                 <div className="col-md-4 m-auto">
                     <h4 className="text-center text-primary m-3">Login</h4>
                     <form onSubmit={handleSubmit}>
