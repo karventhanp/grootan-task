@@ -17,7 +17,7 @@ export const UserProvider = (props) => {
     });
     const [mock,setMock]=useState({})
     const [user,setUser]=useState(()=>{
-            axios.get('http://demo8966750.mockable.io/users')
+            axios.get('https://demo8966750.mockable.io/users')
             .then(res=>setUser(res.data))
             .catch(err=>setMock(404))
     });
